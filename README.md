@@ -12,6 +12,7 @@ References
 *	Fransen, Wrigge (1991). "High-precision values of the Gamma function and of some related coefficients". *AMS*.
 *	Goldberg (1991). "What every computer scientist should know about floating-point arithmetic". *Computing Surveys*.
 *	Khajah, Ortiz (1994). "Ultra-high precision computations". *Computers Math Applic*.
+* 	Pughg (2004). *An Analysis of the Lanczos Gamma Approximation.
 
 
 ## Other
