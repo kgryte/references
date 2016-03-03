@@ -19,6 +19,7 @@ References
 
 * 	[Floating-point determinism](https://randomascii.wordpress.com/2013/07/16/floating-point-determinism/): Is IEEE floating-point math deterministic?
 *	[A note on the computation of the convergent Lanczos complex Gamma approximation.](http://my.fit.edu/~gabdo/gamma.txt)
+*	[The Gamma Function](http://www.rskey.org/CMS/index.php/the-library/11)
 
 ---
 ## License
