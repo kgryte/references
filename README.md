@@ -17,6 +17,11 @@ References
 * 	Pughg (2004). *An Analysis of the Lanczos Gamma Approximation.
 
 
+## Software
+
+*	Meurer et al (2016). "SymPy: Symbolic Computing in Python.". [link](https://github.com/sympy/sympy-paper).
+
+
 ## Other
 
 * 	[Floating-point determinism](https://randomascii.wordpress.com/2013/07/16/floating-point-determinism/): Is IEEE floating-point math deterministic?
